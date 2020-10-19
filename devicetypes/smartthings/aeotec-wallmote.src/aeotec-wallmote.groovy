@@ -191,5 +191,3 @@ private getButtonAttributesMap() {
 private isEverspring() {
     zwaveInfo.model.equals("0003")
 }
-
-
